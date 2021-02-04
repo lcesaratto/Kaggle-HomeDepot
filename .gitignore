@@ -4,3 +4,4 @@ data
 corpora
 *.csv
 *.pkl
+model_data
