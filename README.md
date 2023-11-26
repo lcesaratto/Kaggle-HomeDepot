@@ -1,1 +1,1 @@
-# Kaggle-HomeDepot
+# HomeDepot Kaggle Challenge
